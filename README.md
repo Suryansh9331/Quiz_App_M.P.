@@ -6,7 +6,7 @@ A **simple, interactive, and animated** Quiz App built using **HTML, CSS, and Ja
 
 ## 🚀 Live Demo
 Check out the live version of this quiz app here: 
-👉 **[Your GitHub Pages Link]**
+👉[ https://suryansh9331.github.io/Quiz_App_M.P./]
 
 ---
 
